@@ -52,13 +52,13 @@ What If Homedepot.com/mycard Isn’t Working?
 
 Running into login or registration issues? Try these fixes:
 
-- ✅ Double-check the URL: must be `https://www.homedepot.com/mycard <https://www.homedepot.com/mycard>`_  
-- ✅ Clear your browser cache and cookies  
-- ✅ Use a different browser (Chrome, Safari, Edge)  
-- ✅ Check your internet connection  
-- ✅ Make sure your card is activated  
-- ✅ Try accessing the site from another device  
-- ✅ Contact **Citibank Customer Service** if issues persist  
+- Double-check the URL: must be `https://www.homedepot.com/mycard <https://www.homedepot.com/mycard>`_  
+- Clear your browser cache and cookies  
+- Use a different browser (Chrome, Safari, Edge)  
+- Check your internet connection  
+- Make sure your card is activated  
+- Try accessing the site from another device  
+- Contact **Citibank Customer Service** if issues persist  
 
 Can I Pay My Home Depot Credit Card Bill Without Logging In?
 -------------------------------------------------------------
@@ -75,7 +75,7 @@ How Do I Recover My Home Depot Credit Card Login Credentials?
 
 Forgot your login info? Follow these steps:
 
-- Visit: `https://www.homedepot.com/mycard <https://www.homedepot.com/mycard>`_
+- Visit: `www.homedepot.com/mycard <https://www.homedepot.com/mycard>`_
 - Click on **“Retrieve User ID”** or **“Reset Password”**
 - Enter the required personal information and follow the prompts
 - You’ll get your credentials via email or phone verification
