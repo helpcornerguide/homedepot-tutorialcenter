@@ -6,7 +6,7 @@ You need to visit `homedepot.com/mycard <https://www.homedepot.com/mycard>`_ to 
 
 .. image:: get-start-button.png
    :alt: Homedepot.com/mycard 
-   :target: https://homedepot-tutorialcenter.readthedocs.io/en/latest/
+   :target: https://pre.im/?GZGqGXnYcaJ5hpkKR6ILaKNBSdrHT2UT3uIHKaO8490jqleNb6yZvtISD3m2HzxCOK2FIQQUuS
 
 
 
